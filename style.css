@@ -17,4 +17,7 @@
 .sub-header{
   transform: skewX(45deg);
   color: red;
+  background: linear-gradient(green, white, green);
+  font-weight: bold;
+  text-transform: uppercase;
 }
