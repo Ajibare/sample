@@ -1,4 +1,3 @@
-
 # Heading  1
 
  im working with nelson and david
@@ -11,8 +10,6 @@ Some more text
 
 ### Heading 3
 
-#### sample 4
- im working with nelson and david
- 
-hellow guys
+im working with nelson and david
 
+hello guys
